@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "Flappy Paratroopa",
+  "icon": "../images/icons/mario.jpg",
+  "url": "roms/mario.nes"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "openNES Snake",
+  "icon": "../images/icons/snake.jpg",
+  "url": "roms/snake.nes"
+}

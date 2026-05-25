@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "Famidash",
+  "icon": "../images/icons/famidash.jpg",
+  "url": "roms/famidash.nes"
+}

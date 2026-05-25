@@ -1,0 +1,72 @@
+{
+  "title": "Ретро-ігри",
+  "subtitle": "Домашні ігри для класичної приставки",
+  "icon": "../images/icons/games.png",
+  "type": "menu",
+  "background": "#01020B",
+  "backgroundImage": "../images/backgrounds/games.jpg",
+  "color": "#e8e8ec",
+  "active": "#ED7DD1",
+  "items": [
+    {
+      "title": "Flappy Paratroopa",
+      "subtitle": "Пролітай між перешкодами — проста аркада",
+      "icon": "../images/icons/mario.jpg",
+      "url": "mario.json"
+    },
+    {
+      "title": "Nova the Squirrel",
+      "subtitle": "Пригоди білки з платформами та секретами",
+      "icon": "../images/icons/nova.jpg",
+      "url": "nova.json"
+    },
+    {
+      "title": "Böbl",
+      "subtitle": "Підводні лабіринти та дослідження",
+      "icon": "../images/icons/bobl.jpg",
+      "url": "bobl.json"
+    },
+    {
+      "title": "Micro Mages",
+      "subtitle": "Платформер для одного або кількох гравців",
+      "icon": "../images/icons/micro-mages.jpg",
+      "url": "micro-mages.json"
+    },
+    {
+      "title": "JezNES",
+      "subtitle": "Головоломки з блоками та фігурами",
+      "icon": "../images/icons/jeznes.jpg",
+      "url": "jeznes.json"
+    },
+    {
+      "title": "Super Tilt Bro",
+      "subtitle": "Бійки на платформах на двох гравців",
+      "icon": "../images/icons/super-tilt-bro.jpg",
+      "url": "super-tilt-bro.json"
+    },
+    {
+      "title": "Famidash",
+      "subtitle": "Швидкі рівні — стрибай і не вдаряйся",
+      "icon": "../images/icons/famidash.jpg",
+      "url": "famidash.json"
+    },
+    {
+      "title": "Змійка",
+      "subtitle": "Класична гра: рости й не врізайся в себе",
+      "icon": "../images/icons/snake.jpg",
+      "url": "snake.json"
+    },
+    {
+      "title": "Змійка — швидкий старт",
+      "subtitle": "Та сама гра, починається одразу після вибору",
+      "icon": "../images/icons/snake.jpg",
+      "url": "remote-snake.json"
+    },
+    {
+      "title": "Nova — швидкий старт",
+      "subtitle": "Та сама пригода білки, без попередньої установки",
+      "icon": "../images/icons/nova.jpg",
+      "url": "remote-nova.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Відео",
+  "subtitle": "Фільми, мультики та прямі ефіри",
+  "icon": "../images/icons/video.png",
+  "type": "menu",
+  "background": "#15252A",
+  "backgroundImage": "../images/backgrounds/video.jpg",
+  "color": "#e8e8ec",
+  "active": "#75FBFD",
+  "items": [
+    {
+      "title": "Big Buck Bunny",
+      "subtitle": "Веселий мультик про зайчика в лісі",
+      "icon": "../images/icons/big-buck-bunny.jpg",
+      "url": "big-buck-bunny-720.json"
+    },
+    {
+      "title": "Медузи",
+      "subtitle": "Спокійні підводні кадри",
+      "icon": "../images/icons/jellyfish.jpg",
+      "url": "jellyfish-720.json"
+    },
+    {
+      "title": "Big Buck Bunny",
+      "subtitle": "Той самий мультик, інша звукова доріжка",
+      "icon": "../images/icons/big-buck-bunny.jpg",
+      "url": "big-buck-bunny-aac.json"
+    },
+    {
+      "title": "Tears of Steel",
+      "subtitle": "Короткометражна фантастика про роботів і людей",
+      "icon": "../images/icons/tears-of-steel.jpg",
+      "url": "tears-of-steel.json"
+    },
+    {
+      "title": "Пейзажі у 4K",
+      "subtitle": "Дуже чіткі природні кадри на великому екрані",
+      "icon": "../images/icons/sample-4k.jpg",
+      "url": "sample-4k.json"
+    },
+    {
+      "title": "Короткий онлайн-ролик",
+      "subtitle": "Невеликий зразок відео з мережі",
+      "icon": "../images/icons/mux-hls.jpg",
+      "url": "mux-x36xhzz.json"
+    },
+    {
+      "title": "Короткий зразок відео",
+      "subtitle": "Невеликий фрагмент для перевірки відтворення",
+      "icon": "../images/icons/apple-bipbop.jpg",
+      "url": "apple-bipbop.json"
+    },
+    {
+      "title": "Телеефір Nashnet 1",
+      "subtitle": "Пряма трансляція телеканалу",
+      "icon": "../images/icons/nashnet.jpg",
+      "url": "nashnet-228-0-2-45.json"
+    },
+    {
+      "title": "Телеефір Nashnet 2",
+      "subtitle": "Пряма трансляція телеканалу",
+      "icon": "../images/icons/nashnet.jpg",
+      "url": "nashnet-228-0-2-141.json"
+    },
+    {
+      "title": "Телеефір Nashnet 3",
+      "subtitle": "Пряма трансляція телеканалу",
+      "icon": "../images/icons/nashnet.jpg",
+      "url": "nashnet-228-0-2-41.json"
+    }
+  ]
+}

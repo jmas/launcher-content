@@ -1,0 +1,6 @@
+{
+  "type": "video",
+  "title": "Mux Test Stream (HLS)",
+  "icon": "../images/icons/mux-hls.jpg",
+  "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+}

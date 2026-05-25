@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "Nova the Squirrel",
+  "icon": "../images/icons/nova.jpg",
+  "url": "roms/nova.nes"
+}

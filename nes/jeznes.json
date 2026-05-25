@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "JezNES",
+  "icon": "../images/icons/jeznes.jpg",
+  "url": "roms/jeznes.nes"
+}

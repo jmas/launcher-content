@@ -1,0 +1,6 @@
+{
+  "type": "nes_game",
+  "title": "Böbl",
+  "icon": "../images/icons/bobl.jpg",
+  "url": "roms/bobl.nes"
+}

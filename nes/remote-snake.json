@@ -1,0 +1,7 @@
+{
+  "type": "nes_game",
+  "title": "openNES Snake (remote ROM)",
+  "downloadable": true,
+  "icon": "../images/icons/snake.jpg",
+  "url": "https://github.com/sebastiandine/openNES-Snake/releases/download/v1.0.9/openNES-Snake-1.0.9.nes"
+}

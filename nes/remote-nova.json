@@ -1,0 +1,7 @@
+{
+  "type": "nes_game",
+  "title": "Nova the Squirrel (remote ROM)",
+  "downloadable": true,
+  "icon": "../images/icons/nova.jpg",
+  "url": "https://github.com/NovaSquirrel/NovaTheSquirrel/releases/download/v1.0.6a/nova.nes"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "З чого почати",
+  "subtitle": "YouTube, відео та ретро-ігри",
+  "icon": "images/icons/home.png",
+  "type": "menu",
+  "background": "#191F0F",
+  "backgroundImage": "images/backgrounds/home.jpg",
+  "color": "#ffffff",
+  "active": "#48c774",
+  "items": [
+    {
+      "title": "YouTube відео",
+      "subtitle": "Курси, лекції та музика для фону",
+      "icon": "images/icons/youtube.png",
+      "url": "youtube/menu.json"
+    },
+    {
+      "title": "Відео",
+      "subtitle": "Фільми, мультики та прямі ефіри",
+      "icon": "images/icons/video.png",
+      "url": "videos/menu.json"
+    },
+    {
+      "title": "Ретро-ігри",
+      "subtitle": "Домашні ігри для класичної приставки",
+      "icon": "images/icons/games.png",
+      "url": "nes/menu.json"
+    }
+  ]
+}

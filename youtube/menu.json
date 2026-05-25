@@ -1,0 +1,85 @@
+{
+  "title": "YouTube відео",
+  "subtitle": "Курси, лекції та музика для фону",
+  "icon": "../images/icons/youtube.png",
+  "iconAspect": "16:9",
+  "type": "menu",
+  "background": "#080109",
+  "backgroundImage": "../images/backgrounds/youtube.jpg",
+  "color": "#e8e8ec",
+  "active": "#ff0033",
+  "items": [
+    {
+      "title": "CS50: вступ до програмування",
+      "subtitle": "Перша лекція курсу Гарварду — основи мови C",
+      "icon": "../images/icons/cs50-2024.jpg",
+      "url": "cs50-2024.json"
+    },
+    {
+      "title": "Fullstack-розробник з нуля",
+      "subtitle": "Великий курс: сайти, фронтенд і бекенд",
+      "icon": "../images/icons/fullstack-2025.jpg",
+      "url": "fullstack-2025.json"
+    },
+    {
+      "title": "Python для початківців",
+      "subtitle": "Зрозумілий курс мови програмування",
+      "icon": "../images/icons/python-mosh.jpg",
+      "url": "python-mosh.json"
+    },
+    {
+      "title": "React і сучасний веб",
+      "subtitle": "Як зібрати повноцінний сайт на популярних інструментах",
+      "icon": "../images/icons/theo-react-t3.jpg",
+      "url": "theo-react-t3.json"
+    },
+    {
+      "title": "Spring Boot: веб на Java",
+      "subtitle": "Створення серверної частини застосунку",
+      "icon": "../images/icons/spring-boot-2025.jpg",
+      "url": "spring-boot-2025.json"
+    },
+    {
+      "title": "Expo за хвилину",
+      "subtitle": "Коротко про мобільні додатки на React Native",
+      "icon": "../images/icons/fireship-expo.jpg",
+      "url": "fireship-expo.json"
+    },
+    {
+      "title": "Chillhop Radio",
+      "subtitle": "Безперервний lofi-ефір для роботи й відпочинку",
+      "icon": "../images/icons/chillhop-radio.jpg",
+      "url": "chillhop-radio.json"
+    },
+    {
+      "title": "Lofi Girl Radio",
+      "subtitle": "Музика для навчання та спокійної роботи",
+      "icon": "../images/icons/lofi-girl-radio.jpg",
+      "url": "lofi-girl-radio.json"
+    },
+    {
+      "title": "Найкраще lofi 2024",
+      "subtitle": "Добірка спокійних треків на кілька годин",
+      "icon": "../images/icons/lofi-best-2024.jpg",
+      "url": "lofi-best-2024.json"
+    },
+    {
+      "title": "In the Zone",
+      "subtitle": "Плейлист для концентрації від Chillhop",
+      "icon": "../images/icons/chillhop-in-the-zone.jpg",
+      "url": "chillhop-in-the-zone.json"
+    },
+    {
+      "title": "Кінематографічний lofi",
+      "subtitle": "Довгий мікс для глибокого занурення",
+      "icon": "../images/icons/lofi-cinematic-4h.jpg",
+      "url": "lofi-cinematic-4h.json"
+    },
+    {
+      "title": "1 A.M. Study Session",
+      "subtitle": "Культова нічна сесія від Lofi Girl",
+      "icon": "../images/icons/lofi-1am-study.jpg",
+      "url": "lofi-1am-study.json"
+    }
+  ]
+}

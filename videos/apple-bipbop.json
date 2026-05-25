@@ -1,0 +1,6 @@
+{
+  "type": "video",
+  "title": "Apple BipBop (HLS)",
+  "icon": "../images/icons/apple-bipbop.jpg",
+  "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fra.m3u8"
+}
