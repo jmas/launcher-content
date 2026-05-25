@@ -3,7 +3,7 @@
   "subtitle": "YouTube, відео та ретро-ігри",
   "icon": "images/icons/home.png",
   "type": "menu",
-  "background": "#191F0F",
+  "background": "#0F1C0F",
   "backgroundImage": "images/backgrounds/home.jpg",
   "color": "#ffffff",
   "active": "#48c774",

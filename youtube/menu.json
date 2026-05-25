@@ -7,7 +7,7 @@
   "background": "#080109",
   "backgroundImage": "../images/backgrounds/youtube.jpg",
   "color": "#e8e8ec",
-  "active": "#ff0033",
+  "active": "#ED7570",
   "items": [
     {
       "title": "CS50: вступ до програмування",
