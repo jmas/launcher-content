@@ -3,7 +3,7 @@
   "subtitle": "Домашні ігри для класичної приставки",
   "icon": "../images/icons/games.png",
   "type": "menu",
-  "background": "#01020B",
+  "background": "#000000",
   "backgroundImage": "../images/backgrounds/games.jpg",
   "color": "#e8e8ec",
   "active": "#ED7DD1",

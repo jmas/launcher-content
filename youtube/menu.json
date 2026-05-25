@@ -4,7 +4,7 @@
   "icon": "../images/icons/youtube.png",
   "iconAspect": "16:9",
   "type": "menu",
-  "background": "#080109",
+  "background": "#101D26",
   "backgroundImage": "../images/backgrounds/youtube.jpg",
   "color": "#e8e8ec",
   "active": "#ED7570",

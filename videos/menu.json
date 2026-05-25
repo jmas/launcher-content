@@ -3,7 +3,7 @@
   "subtitle": "Фільми, мультики та прямі ефіри",
   "icon": "../images/icons/video.png",
   "type": "menu",
-  "background": "#15252A",
+  "background": "#14161D",
   "backgroundImage": "../images/backgrounds/video.jpg",
   "color": "#e8e8ec",
   "active": "#75FBFD",
