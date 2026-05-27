@@ -3,10 +3,8 @@
   "subtitle": "YouTube, відео та ретро-ігри",
   "icon": "images/icons/home.png",
   "type": "menu",
-  "background": "#2A3533",
-  "backgroundImage": "images/backgrounds/home.jpg",
+  "bgImage": "images/backgrounds/home.jpg",
   "color": "#ffffff",
-  "active": "#BFFF00",
   "items": [
     {
       "title": "YouTube відео",
@@ -19,6 +17,12 @@
       "subtitle": "Фільми, мультики та прямі ефіри",
       "icon": "images/icons/video.png",
       "url": "videos/menu.json"
+    },
+    {
+      "title": "Музика",
+      "subtitle": "Музика для фону",
+      "icon": "images/icons/music.png",
+      "url": "music/menu.json"
     },
     {
       "title": "Ретро-ігри",

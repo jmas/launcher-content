@@ -3,10 +3,8 @@
   "subtitle": "Домашні ігри для класичної приставки",
   "icon": "../images/icons/games.png",
   "type": "menu",
-  "background": "#000000",
-  "backgroundImage": "../images/backgrounds/games.jpg",
-  "color": "#e8e8ec",
-  "active": "#ED7DD1",
+  "bgImage": "../images/backgrounds/games.jpg",
+  "color": "#3B82F6",
   "items": [
     {
       "title": "Flappy Paratroopa",
