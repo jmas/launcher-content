@@ -1,0 +1,19 @@
+OpenMoji icons
+
+Source: https://openmoji.org/
+Repository: https://github.com/hfg-gmuend/openmoji
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+License text: https://creativecommons.org/licenses/by-sa/4.0/
+
+Files in this directory were downloaded from:
+https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/
+
+Codepoints used:
+- forest.png: 1F332 (Evergreen Tree)
+- scifi-city.png: 1F3D9 (Cityscape)
+- crystal.png: 1F48E (Gem Stone)
+- planet.png: 1FA90 (Ringed Planet)
+- flute.png: 1FA88 (Flute)
+- drum.png: 1F941 (Drum With Drumsticks)
+- playlist.png: 1F3B6 (Musical Notes)
+

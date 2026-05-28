@@ -8,34 +8,46 @@
   "iconAspect": "square",
   "items": [
     {
-      "title": "Й. Пахельбель — Canon in D (фортепіано)",
-      "subtitle": "Виконує Lee Galloway · CC BY-SA 3.0",
-      "url": "pachelbel-canon.json"
+      "title": "Playlist example",
+      "subtitle": "Декілька треків одразу · CC0 · OpenGameArt",
+      "icon": "../images/icons/openmoji/playlist.png",
+      "url": "playlist-example.json"
     },
     {
-      "title": "Л. ван Бетховен — Hammerklavier (I)",
-      "subtitle": "MIDI (public domain) → аудіо · CC BY-SA 3.0 DE",
-      "url": "beethoven-hammerklavier-1.json"
+      "title": "Forest Ambience",
+      "subtitle": "Луп, атмосфера лісу · CC0 · OpenGameArt",
+      "icon": "../images/icons/openmoji/forest.png",
+      "url": "forest-ambience.json"
     },
     {
-      "title": "Ерік Саті — Gymnopédie No. 1",
-      "subtitle": "Виконує Robin Alciatore (Musopen) · Public domain (Musopen)",
-      "url": "satie-gymnopedie-1.json"
+      "title": "Sci‑Fi City (busy_cyberworld)",
+      "subtitle": "Кібер-амбієнт, луп · CC0 · TinyWorlds (OpenGameArt)",
+      "icon": "../images/icons/openmoji/scifi-city.png",
+      "url": "scifi-city-busy-cyberworld.json"
     },
     {
-      "title": "Scott Buckley — The Long Dark",
-      "subtitle": "Ембієнт-піано · CC BY (див. файл на Commons)",
-      "url": "scott-buckley-the-long-dark.json"
+      "title": "Crystal Caves",
+      "subtitle": "Музика для ігор · CC0 · Airos (OpenGameArt)",
+      "icon": "../images/icons/openmoji/crystal.png",
+      "url": "crystal-caves.json"
     },
     {
-      "title": "Фортепіано (короткий семпл)",
-      "subtitle": "CC BY-SA 3.0",
-      "url": "piano-sample.json"
+      "title": "Echoes from Beyond",
+      "subtitle": "Музика для ігор · CC0 · Airos (OpenGameArt)",
+      "icon": "../images/icons/openmoji/planet.png",
+      "url": "echoes-from-beyond.json"
     },
     {
-      "title": "Wiki Phonk (короткий семпл)",
-      "subtitle": "Ліцензія CC на сторінці файлу Commons",
-      "url": "wiki-phonk-sample.json"
+      "title": "Recorder Jam",
+      "subtitle": "Мелодика/дзвіночки, луп · CC0 · Of Far Different Nature (OpenGameArt)",
+      "icon": "../images/icons/openmoji/flute.png",
+      "url": "recorder-jam.json"
+    },
+    {
+      "title": "Tribal",
+      "subtitle": "Chill tribal · CC0 · Of Far Different Nature (OpenGameArt)",
+      "icon": "../images/icons/openmoji/drum.png",
+      "url": "tribal.json"
     }
   ]
 }

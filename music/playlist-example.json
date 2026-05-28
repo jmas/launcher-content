@@ -1,0 +1,31 @@
+{
+  "type": "audio",
+  "title": "Playlist example (CC0 · OpenGameArt)",
+  "items": [
+    {
+      "title": "Forest Ambience",
+      "url": "https://opengameart.org/sites/default/files/Forest_Ambience.mp3"
+    },
+    {
+      "title": "Sci‑Fi City (busy_cyberworld)",
+      "url": "https://opengameart.org/sites/default/files/busy_cyberworld.mp3"
+    },
+    {
+      "title": "Crystal Caves",
+      "url": "https://opengameart.org/sites/default/files/crystal_caves.mp3"
+    },
+    {
+      "title": "Echoes from Beyond",
+      "url": "https://opengameart.org/sites/default/files/echoes_from_beyond.mp3"
+    },
+    {
+      "title": "Recorder Jam",
+      "url": "https://opengameart.org/sites/default/files/Of%20Far%20Different%20Nature%20-%20Recorder%20Jam%20%28CC0%29.mp3"
+    },
+    {
+      "title": "Tribal",
+      "url": "https://opengameart.org/sites/default/files/Of%20Far%20Different%20Nature%20-%20Tribal%20%28CC0%29.mp3"
+    }
+  ]
+}
+
