@@ -1,0 +1,42 @@
+{
+  "type": "menu",
+  "title": "Музика",
+  "subtitle": "Добірка відкритої музики",
+  "icon": "../images/icons/music.png",
+  "bgImage": "../images/backgrounds/music.jpg",
+  "color": "#A6E22E",
+  "iconAspect": "square",
+  "items": [
+    {
+      "title": "Й. Пахельбель — Canon in D (фортепіано)",
+      "subtitle": "Виконує Lee Galloway · CC BY-SA 3.0",
+      "url": "pachelbel-canon.json"
+    },
+    {
+      "title": "Л. ван Бетховен — Hammerklavier (I)",
+      "subtitle": "MIDI (public domain) → аудіо · CC BY-SA 3.0 DE",
+      "url": "beethoven-hammerklavier-1.json"
+    },
+    {
+      "title": "Ерік Саті — Gymnopédie No. 1",
+      "subtitle": "Виконує Robin Alciatore (Musopen) · Public domain (Musopen)",
+      "url": "satie-gymnopedie-1.json"
+    },
+    {
+      "title": "Scott Buckley — The Long Dark",
+      "subtitle": "Ембієнт-піано · CC BY (див. файл на Commons)",
+      "url": "scott-buckley-the-long-dark.json"
+    },
+    {
+      "title": "Фортепіано (короткий семпл)",
+      "subtitle": "CC BY-SA 3.0",
+      "url": "piano-sample.json"
+    },
+    {
+      "title": "Wiki Phonk (короткий семпл)",
+      "subtitle": "Ліцензія CC на сторінці файлу Commons",
+      "url": "wiki-phonk-sample.json"
+    }
+  ]
+}
+
